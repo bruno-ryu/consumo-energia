@@ -34,7 +34,7 @@ Consumo Mensal (kWh) = (Potência × Horas por dia × 30) / 1000
 ## ▶️ Como executar
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/consumo-energia.git
+git clone https://github.com/bruno-ryu/consumo-energia.git
 
 2. Entre na pasta:
 cd consumo-energia
